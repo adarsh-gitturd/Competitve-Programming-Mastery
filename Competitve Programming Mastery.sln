@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linear Reccurences and Matrix Exponentiatoin", "Linear Reccurences and Matrix Exponentiatoin\Linear Reccurences and Matrix Exponentiatoin.vcxproj", "{001EF2A8-387B-4B6E-A102-955A2DC680F1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pigeonhole Principle", "Pigeonhole Principle\Pigeonhole Principle.vcxproj", "{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mathematical Expectation", "Mathematical Expectation\Mathematical Expectation.vcxproj", "{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{001EF2A8-387B-4B6E-A102-955A2DC680F1}.Release|x64.Build.0 = Release|x64
 		{001EF2A8-387B-4B6E-A102-955A2DC680F1}.Release|x86.ActiveCfg = Release|Win32
 		{001EF2A8-387B-4B6E-A102-955A2DC680F1}.Release|x86.Build.0 = Release|Win32
+		{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}.Debug|x64.ActiveCfg = Debug|x64
+		{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}.Debug|x64.Build.0 = Debug|x64
+		{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}.Debug|x86.Build.0 = Debug|Win32
+		{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}.Release|x64.ActiveCfg = Release|x64
+		{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}.Release|x64.Build.0 = Release|x64
+		{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}.Release|x86.ActiveCfg = Release|Win32
+		{FEC28C1D-6BBB-44C5-B268-433D170F7E1F}.Release|x86.Build.0 = Release|Win32
+		{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}.Debug|x64.ActiveCfg = Debug|x64
+		{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}.Debug|x64.Build.0 = Debug|x64
+		{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}.Debug|x86.Build.0 = Debug|Win32
+		{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}.Release|x64.ActiveCfg = Release|x64
+		{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}.Release|x64.Build.0 = Release|x64
+		{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}.Release|x86.ActiveCfg = Release|Win32
+		{BC6CFEF6-E2D4-48E5-848F-315EFBB0C9CA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
